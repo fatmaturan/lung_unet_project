@@ -1,0 +1,18 @@
+# Dataset
+data/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Python cache
+__pycache__/
+
+# IDE
+.idea/
+
+# Trained models
+*.h5
+*.keras
